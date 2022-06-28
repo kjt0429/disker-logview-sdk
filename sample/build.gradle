@@ -8,7 +8,7 @@ android {
     buildToolsVersion project.ext.buildTools
 
     defaultConfig {
-        applicationId "com.disker.sample"
+        applicationId "io.github.disker.sample"
         minSdkVersion project.ext.minSdk
         targetSdkVersion project.ext.targetSdk
         versionCode 1

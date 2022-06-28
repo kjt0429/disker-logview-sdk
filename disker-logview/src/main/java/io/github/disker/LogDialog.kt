@@ -1,4 +1,4 @@
-package com.disker.sdk
+package io.github.disker
 
 import android.annotation.SuppressLint
 import android.app.Activity

@@ -1,10 +1,10 @@
-package com.disker.sample
+package io.github.disker.sample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.Button
-import com.disker.sdk.LogDialog
+import io.github.disker.LogDialog
 
 class MainActivity : AppCompatActivity() {
 
