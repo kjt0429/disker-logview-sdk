@@ -1,5 +1,5 @@
+rootProject.name = "disker-sdk"
 include ':disker-logview'
 include ':sample'
-//rootProject.name = "disker-logview-sdk"
+//rootProject.name = "disker-sdk"
 
-rootProject.name = "disker-sdk"

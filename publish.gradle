@@ -1,0 +1,17 @@
+ext {
+    PUBLISH_GROUP_ID = 'io.github.kjt0429'
+    PUBLISH_ARTIFACT_ID = 'disker-logview'
+    PUBLISH_VERSION = '0.0.1'
+
+    PUBLISH_DESCRIPTION = 'DiskerLogView Android Library'
+    PUBLISH_URL = 'https://github.com/kjt0429/disker-logview-sdk'
+    PUBLISH_LICENSE_NAME = 'Apache License'
+    PUBLISH_LICENSE_URL = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    PUBLISH_DEVELOPER_ID = 'disker'
+    PUBLISH_DEVELOPER_NAME = 'disker'
+    PUBLISH_DEVELOPER_EMAIL = 'com4029@gmail.com'
+
+    PUBLISH_SCM_CONNECTION = 'scm:git:github.com/kjt0429/disker-logview-sdk.git'
+    PUBLISH_SCM_DEVELOPER_CONNECTION = 'scm:git:ssh://github.com/kjt0429/disker-logview-sdk.git'
+    PUBLISH_SCM_URL = 'https://github.com/kjt0429/disker-logview-sdk/tree/main'
+}
